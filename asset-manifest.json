@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/habit-tracker/static/css/main.440b4816.css",
-    "main.js": "/habit-tracker/static/js/main.1f45d315.js",
-    "index.html": "/habit-tracker/index.html",
-    "main.440b4816.css.map": "/habit-tracker/static/css/main.440b4816.css.map",
-    "main.1f45d315.js.map": "/habit-tracker/static/js/main.1f45d315.js.map"
+    "main.css": "/github.io/habit-tracker/static/css/main.440b4816.css",
+    "main.js": "/github.io/habit-tracker/static/js/main.1f45d315.js",
+    "index.html": "/github.io/habit-tracker/index.html",
+    "main.440b4816.css.map": "/github.io/habit-tracker/static/css/main.440b4816.css.map",
+    "main.1f45d315.js.map": "/github.io/habit-tracker/static/js/main.1f45d315.js.map"
   },
   "entrypoints": [
     "static/css/main.440b4816.css",
